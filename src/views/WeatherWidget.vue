@@ -89,7 +89,6 @@ export default {
 .weather-widget {
   max-width: 300px;
   margin: 20px auto;
-  padding: 20px;
   border-radius: 10px;
   box-shadow: 0 4px 12px rgba(0, 0, 0, 0.1);
   background: linear-gradient(to bottom, #5f27cd, #341f97);
@@ -97,7 +96,7 @@ export default {
   text-align: center;
   transition: background 0.3s ease;
   position: relative;
-  top: 150px;
+  top: 70px;
 }
 
 .weather-widget:hover {
