@@ -4,7 +4,7 @@
     <div class="dropdown" @click="toggleDropdown">
       <button class="nav-button">Pilih Tugas</button>
       <ul class="dropdown-menu" :class="{ 'show-dropdown': dropdownOpen }">
-        <li><a href="https://id.wiktionary.org/wiki/maaf">Tugas 1</a></li>
+        <li><a href="https://m-rafi-i-rafta-223510845.vercel.app/">Tugas 1</a></li>
         <li><a href="https://223510845-tgs4pbkprak-mrafiirafta.netlify.app/">Tugas 2</a></li>
         <li><a href="https://223510845-muhammadrafiirafta.netlify.app/">Tugas 3</a></li>
         <li><a href="https://223510845-tgs4pbkprak-mrafiirafta.netlify.app/">Tugas 4</a></li>
